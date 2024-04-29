@@ -1,0 +1,54 @@
+body {
+    font-family: 'Apercu Mono Pro', sans-serif;
+    padding: 20px;
+    line-height: 1;
+}
+
+/* .sidebar {
+    width: 50px; 
+    background-color: #000; 
+    height: 100vh; 
+} */
+
+h1 {
+    font-size: 28px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+p {
+    font-size: 12px;
+    padding-right: 40%;
+}
+
+.dates {
+    font-size: 10px;
+    color:#666;
+}
+
+.section {
+    margin-bottom: 12px;
+}
+
+.links {
+    font-size: 12px;
+    margin: 40px 0;
+}
+
+.links a {
+    color: blue;
+    text-decoration: none;
+}
+
+.links a:not(:last-child):after {
+    content: " · ";
+}
+
+footer {
+    font-size: 12px;
+    color: #666;
+}
