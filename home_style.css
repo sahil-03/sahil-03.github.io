@@ -67,11 +67,14 @@ footer {
     background-size: contain;
     background-repeat: no-repeat;
 }
+/* .beheard::before {
+    background-image: url('/assets/beheard.png');
+} */
 .science::before {
-    background-image: url('/assets/science.png');
+    background-image: url('/assets/science_logo.png');
 }
 .snowflake::before {
-    background-image: url('/assets/snowflake.png');
+    background-image: url('/assets/snowflake_logo.png');
 }
 .kyvos::before {
     background-image: url('/assets/kyvos.png');
