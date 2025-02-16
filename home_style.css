@@ -67,9 +67,9 @@ footer {
     background-size: contain;
     background-repeat: no-repeat;
 }
-/* .beheard::before {
+.beheard::before {
     background-image: url('/assets/beheard.png');
-} */
+}
 .science::before {
     background-image: url('/assets/science_logo.png');
 }
