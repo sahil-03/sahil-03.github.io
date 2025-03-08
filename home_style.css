@@ -68,7 +68,7 @@ footer {
     background-repeat: no-repeat;
 }
 .beheard::before {
-    background-image: url('/assets/beheard.png');
+    background-image: url('/assets/beheard_logo.png');
 }
 .science::before {
     background-image: url('/assets/science_logo.png');
@@ -79,4 +79,3 @@ footer {
 .kyvos::before {
     background-image: url('/assets/kyvos.png');
 }
-
