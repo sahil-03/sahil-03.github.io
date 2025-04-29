@@ -79,3 +79,9 @@ footer {
 .kyvos::before {
     background-image: url('/assets/kyvos.png');
 }
+.none::before {
+    background-image: none;
+    background-color: rgb(202, 202, 202);
+    width: 20px;
+    height: 20px;
+}
