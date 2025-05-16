@@ -79,6 +79,9 @@ footer {
 .kyvos::before {
     background-image: url('/assets/kyvos.png');
 }
+.bcv::before {
+    background-image: url('/assets/bcv_logo.png');
+}
 .none::before {
     background-image: none;
     background-color: rgb(202, 202, 202);
