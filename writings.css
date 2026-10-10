@@ -1,6 +1,6 @@
 body {
-    font-family: 'Apercu Mono Pro', serif;
-    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
     margin: 0;
     padding: 20px;
     line-height: 1.6;
@@ -16,13 +16,21 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    margin: 0;
+}
+
+h2 + p,
+h2 + div > p:first-child {
+    margin-top: 0;
+}
+
 .date {
     color: #666;
 }
 
 .links {
-    font-size: 12px;
-    margin: 40px 0;
+    font-size: 14px;
 }
 
 .links a {
@@ -35,6 +43,6 @@ h1 {
 }
 
 footer {
-    font-size: 12px;
+    font-size: 14px;
     color: #666;
 }
